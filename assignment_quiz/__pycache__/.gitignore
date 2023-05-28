@@ -1,0 +1,34 @@
+myenv/
+venv
+*.env
+__pycache__/
+# db.sqlite3
+#settings.py
+*.pyc
+# migrations/
+media/
+*.vscode
+.history/
+debug.log
+.idea/workspace.xml
+installodbc.sh
+*.log
+*.log.*
+installodbc.sh
+#asgi.py
+#routing.py
+static/
+.idea/
+env/
+ocr_temp/
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+/scripts/
+.env
+
+_bkup
+extended_settings.py
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
